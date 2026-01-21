@@ -1,0 +1,7 @@
+{
+  "name": "Portfolio",
+  "description": "A high-end interaction designer portfolio with an integrated CMS, featuring Three.js backgrounds, smooth transitions, and data-driven content management.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
